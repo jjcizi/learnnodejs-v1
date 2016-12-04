@@ -1,0 +1,13 @@
+{
+  "name": "nodejslesson",
+  "version": "0.0.1",
+  "description": "Nodejs课程学习啦！",
+  "main": "index.js",
+  "repository":{
+    "type": "git",
+    "url": "https://github.com/jjcizi/learnnodejs-v1"
+  },
+  "author": "caizhi",
+  "license": "MIT"
+
+}
